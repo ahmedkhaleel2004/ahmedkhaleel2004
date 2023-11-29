@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋🏼 Hello, I'm Ahmed Khaleel<br>⚙ I'm a student actively learning and creating software projects<br>🌱 I am currently working on building full-stack web applications<br>💻 I actively seek opportunities through hackathons and other events<br>📬 Feel free to reach me through LinkedIn Messages (bio)<br>
+# About Me:
+👋🏼 Hey, I'm Ahmed.<br><br>🧠 I'm currently working on building Full-Stack Web Applications and diving into the world of Machine Learning .<br><br>📬 Feel free to reach me through LinkedIn Messages (bio)<br>
 
 
 # 💻 Tech Stack:
