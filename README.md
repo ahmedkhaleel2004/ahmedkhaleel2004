@@ -1,5 +1,5 @@
 # About Me:
-👋🏼 Hey, I'm Ahmed.<br><br>🧠 I'm currently working on building Full-Stack Web Applications and diving into the world of Machine Learning .<br><br>📬 Feel free to reach me through LinkedIn Messages (bio)<br>
+👋🏼 Hey, I'm Ahmed.<br><br>🧠 I'm currently working on building Full-Stack Web Applications and diving into the world of Machine Learning.<br><br>📬 Feel free to reach me through LinkedIn Messages (bio)<br>
 
 
 # 💻 Tech Stack:
