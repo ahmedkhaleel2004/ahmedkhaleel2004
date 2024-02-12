@@ -6,7 +6,7 @@ Check out my [**portfolio**](https://portfolio-ahmed-khaleels-projects.vercel.ap
 [![LinkedIn](https://img.shields.io/badge/Ahmed%20Khaleel-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedkhaleel2004/) [![GMail](https://img.shields.io/badge/ahmedkhaleel2004-c0392b?style=flat-square&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedkhaleel2004@gmail.com)
 
 - Building Full-Stack Apps on the T3 stack 
-- Focused on ML application
+- Interested in ML application
 - Workshop Developer @ McMaster AI Society
 
 ### Languages
