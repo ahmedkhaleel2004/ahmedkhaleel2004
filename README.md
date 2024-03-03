@@ -1,7 +1,7 @@
 # 👋🏼 Hey, I'm Ahmed. 
 I'm a Computer Engineering student at McMaster University.
 
-Check out my [**portfolio**](https://portfolio-ahmed-khaleels-projects.vercel.app/) 🖥️!
+Check out my [**portfolio**](https://ahmedkhaleel.dev) 🖥️!
 
 [![LinkedIn](https://img.shields.io/badge/Ahmed%20Khaleel-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedkhaleel2004/) [![GMail](https://img.shields.io/badge/ahmedkhaleel2004-c0392b?style=flat-square&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedkhaleel2004@gmail.com)
 
