@@ -1,5 +1,5 @@
 # 👋🏼 Hey, I'm Ahmed. 
-I'm a Software Engineering student at McMaster University.
+I'm a third year Software Engineering student at McMaster University.
 
 Check out my [**portfolio**](https://ahmedkhaleel.dev) 🖥️!
 
@@ -9,8 +9,9 @@ Check out my [**portfolio**](https://ahmedkhaleel.dev) 🖥️!
 - Focused on ML application
 
 Experience:
-- Software Developer @ McMaster Engineering Society
 - MLH Production Engineering Fellow @ Meta
+- Software Developer @ McMaster Engineering Society
+- Software Engineering Research Assistant @ Healthcare Systems R&A Inc.
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
