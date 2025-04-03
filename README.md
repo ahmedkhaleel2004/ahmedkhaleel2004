@@ -6,6 +6,9 @@ Previously:
 - Production Engineering Fellow @ Meta x MLH
 - Software Developer @ McMaster Engineering Society
 - Software Engineering Research Assistant @ Healthcare Systems R&A Inc.
+- Side Projects:
+  - Self-learning [project copilot](https://github.com/ahmedkhaleel2004/DeepEnd-hackathon) (GDG Hackathon winner)
+  - Decentralized [skill-sharing](https://github.com/ahmedkhaleel2004/intellex) platform (Deltahacks prize winner) 
 
 I'm currently exploring new ways to use LLMs and building things I'd use.
 
