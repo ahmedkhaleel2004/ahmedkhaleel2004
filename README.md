@@ -8,7 +8,9 @@ Previously:
 - Software Engineering Research Assistant @ Healthcare Systems R&A Inc.
 - Side Projects:
   - Self-learning [project copilot](https://github.com/ahmedkhaleel2004/DeepEnd-hackathon) (GDG Hackathon winner)
-  - Decentralized [skill-sharing](https://github.com/ahmedkhaleel2004/intellex) platform (Deltahacks prize winner) 
+  - Decentralized [skill-sharing](https://github.com/ahmedkhaleel2004/intellex) platform (Deltahacks prize winner)
+
+I'm also a third year Software Engineering student @ McMaster University
 
 I'm currently exploring new ways to use LLMs and building things I'd use.
 
