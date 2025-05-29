@@ -1,6 +1,6 @@
 ## hey, i'm ahmed
 
-I recently built [GitDiagram](https://gitdiagram.com) to instantly visualize any GitHub repository. 150,000+ users and 10,000+ GitHub stars ⭐
+I recently built [GitDiagram](https://gitdiagram.com) to instantly visualize any GitHub repository. 200,000+ users and 13,000+ GitHub stars ⭐
 
 Previously:
 - Production Engineering Fellow @ Meta x MLH
