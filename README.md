@@ -15,4 +15,4 @@ I'm also a third year Software Engineering student @ McMaster University
 
 I'm currently exploring new ways to use LLMs and building things I'd use.
 
-Links: [Website](https://ahmedkhaleel.dev) - [X](https://x.com/ahmedkhaleel04) - [LinkedIn](https://www.linkedin.com/in/ahmedkhaleel2004/)
+Links: [Website](https://ahmedkhaleel.com) - [X](https://x.com/ahmedkhaleel04) - [LinkedIn](https://www.linkedin.com/in/ahmedkhaleel2004/)
