@@ -3,6 +3,7 @@
 I recently built [GitDiagram](https://gitdiagram.com) to instantly visualize any GitHub repository. 300,000+ users and 15,000+ GitHub stars ⭐
 
 Previously:
+- Software Engineer Intern @ Microsoft
 - Software Engineer Intern @ ElevenLabs
 - Production Engineering Fellow @ Meta x MLH
 - Software Developer @ McMaster Engineering Society
