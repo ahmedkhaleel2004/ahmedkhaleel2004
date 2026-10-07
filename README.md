@@ -1,6 +1,6 @@
 ## hey, i'm ahmed
 
-I recently built [GitDiagram](https://gitdiagram.com) to instantly visualize any GitHub repository. 480,000+ users and 18k+ GitHub stars ⭐
+I recently built [GitDiagram](https://gitdiagram.com) to instantly visualize any GitHub repository. 500,000+ users and 18k+ GitHub stars ⭐
 
 Previously:
 - Software Engineer Intern @ Microsoft
